@@ -11,11 +11,9 @@ Website Under Construction
 
 Robots
 ======
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| ![image](images/500x300.png)  | Content Cell  |
-| Content Cell  | Content Cell  |
+| | | |
+|:----------------:|:----------------:|:----------------:|
+|![image](images/ur5.png) UR5 |![image](images/ur5.png) |![image](images/ur5.png) |
 
 
 <!-- 

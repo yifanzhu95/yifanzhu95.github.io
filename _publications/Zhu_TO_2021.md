@@ -6,7 +6,7 @@ excerpt: 'Contact-Implicit Trajectory Optimization With Learned Deformable Conta
 date: 2021-01-01
 venue: 'ICRA'
 paperurl: 'http://yifanzhu95.github.io/files/Zhu_TO_2021.pdf'
-citation: 'Y. Zhu, Z. Pan, K. Hauser, “Contact-Implicit Trajectory Optimization With Learned Deformable Contacts Using Bilevel Optimization,” IEEE International Conference on Robotics and Automation (ICRA) 2021.'
+citation: 'Y. Zhu, Z. Pan, and K. Hauser, “Contact-Implicit Trajectory Optimization With Learned Deformable Contacts Using Bilevel Optimization,” IEEE International Conference on Robotics and Automation (ICRA) 2021.'
 ---
 
 [Download paper here](http://yifanzhu95.github.io/files/Zhu_TO_2021.pdf)

@@ -11,7 +11,7 @@ My name is Yifan Zhu, and I am currently a 5th-year Ph.D. student at the Compute
 
 News
 ======
-October 2020: Our robot TRINA has been participating in the AVATAR XPRIZE competition as Team AVATRINA, and we just scored 4-th in the semi-finals and are advancing to the finals! [media](https://www.xprize.org/prizes/avatar/competing-teams)
+October 2021: Our robot TRINA has been participating in the AVATAR XPRIZE competition as Team AVATRINA, and we just scored 4-th in the semi-finals and are advancing to the finals! [media](https://www.xprize.org/prizes/avatar/competing-teams)
 
 Robots that I work with
 ======

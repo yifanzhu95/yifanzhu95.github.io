@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Yifan Zhu, and I am currently a 5th-year Ph.D. student at the Computer Science department at University of Illinois Urbana-Champaign. I work with Prof. Kris Hauser on robotics. There are two fronts of my research. On one hand, I work on data-driven modeling of deformable objects and planning robot motions in deformable environments. On the other front, I have been developing a nursing assistant robot called TRINA with my colleagues, and enabling it with both tele-operation and autonomous capabilities.
+My name is Yifan Zhu, and I am currently a 5th-year Ph.D. student at the Computer Science department at the University of Illinois Urbana-Champaign. I work with Prof. Kris Hauser on robotics. There are two fronts of my research. On one hand, I work on data-driven modeling of deformable objects and planning robot motions in deformable environments. On the other front, I have been developing a nursing assistant robot called TRINA with my colleagues, and enabling it with both tele-operation and autonomous capabilities.
 
 News
 ======

@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "A Data-driven Approach for Fast Simulation of Robot Locomotion on
+Granular Media"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/Zhu_GranularMedia_2019
+excerpt: 'Novel data-driven granular contact model and optimization-based simulation. '
+date: 2019-01-01
+venue: 'ICRA'
+paperurl: 'http://yifanzhu95.github.io/files/Zhu_GranularMedia_2019.pdf'
+citation: 'Y. Zhu, L. Abdulmajeid, K. Hauser, “A Data-driven Approach for Fast Simulation ofRobot Locomotion on Granular Media,” IEEE International Conference on Robotics and Automation (ICRA) 2019.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](http://yifanzhu95.github.io/files/Zhu_GranularMedia_2019.pdf)
+![paper picture](/images/Zhu_GranularMedia_pic_1.PNG)

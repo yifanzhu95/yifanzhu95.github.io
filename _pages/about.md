@@ -16,7 +16,6 @@ October 2020: Our robot TRINA has been participating in the AVATAR XPRIZE compet
 Robots that I work with
 ======
 
-| | | | |
 |<img src="images/ur5.png" alt="drawing" width="200" /> UR5 |<img src="images/TRINA.JPG" alt="drawing" width="200" /> TRINA|<img src="images/robosimian.jpg" alt="drawing" width="200" /> Robosimian|<img src="images/franka.jpg" alt="drawing" width="200" /> Franka Panda|
 
 

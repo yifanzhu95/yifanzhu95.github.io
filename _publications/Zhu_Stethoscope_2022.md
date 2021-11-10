@@ -1,5 +1,5 @@
 ---
-title: 'Automated Heart and Lung Auscultation in Robotic Physical Examinations'
+title: '(Under Review) Automated Heart and Lung Auscultation in Robotic Physical Examinations'
 collection: publications
 permalink: /publication/Zhu_Stethoscope_2021
 excerpt: 'Automated Heart and Lung Auscultation in Robotic Physical Examinations'

@@ -7,13 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Website Under Construction
+My name is Yifan Zhu, and I am currently a 5th-year Ph.D. student at the Computer Science department at University of Illinois Urbana-Champaign. I work with Prof. Kris Hauser on robotics. There are two fronts of my research. On one hand, I work on data-driven modeling of deformable objects and planning robot motions in deformable environments. On the other front, I have been developing a nursing assistant robot called TRINA with my colleagues, and enabling it with both tele-operation and autonomous capabilities.
 
-Robots
+News
+======
+October 2020: Our robot TRINA has been participating in the AVATAR XPrize competition as Team AVATRINA, and we just scored 4-th in the semi-finals and are advancing to the finals! [media](https://www.xprize.org/prizes/avatar/competing-teams)
+
+Robots that I have worked with
 ======
 
 | | | | |
-|![image](images/ur5.png) UR5 |![image](images/TRINA.JPG) TRINA|![image](images/robosimian.jpg) Robosimian|![image](images/franka.jpg) Franka Panda|
+|<img src="images/ur5.png" alt="drawing" width="200" /> UR5 |<img src="images/TRINA.JPG" alt="drawing" width="200" /> TRINA|<img src="images/robosimian.jpg" alt="drawing" width="200" /> Robosimian|<img src="images/franka.jpg" alt="drawing" width="200" /> Franka Panda|
 
 
 <!-- 

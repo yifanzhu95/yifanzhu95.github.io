@@ -12,9 +12,8 @@ Website Under Construction
 Robots
 ======
 
-| | | |
-|:----------------:|:----------------:|:----------------:|
-|![image](images/ur5.png) UR5 |![image](images/ur5.png) |![image](images/ur5.png) |
+| | | | |
+|![image](images/ur5.png) UR5 |![image](images/TRINA.JPG) TRINA|![image](images/robosimian.jpg) Robosimian|![image](images/franka.jpg) Franka Panda|
 
 
 <!-- 

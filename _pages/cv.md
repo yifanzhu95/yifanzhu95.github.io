@@ -6,8 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+[Download the CV here](http://yifanzhu95.github.io/files/CV_up_to_date.pdf)
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 Education
 ======
@@ -56,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

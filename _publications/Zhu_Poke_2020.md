@@ -6,7 +6,7 @@ excerpt: 'In this work, a semi-empirical visuo-tactile model is proposed for het
 date: 2020-01-01
 venue: 'ICRA'
 paperurl: 'http://yifanzhu95.github.io/files/Zhu_Poke_2020.pdf'
-citation: 'Y. Zhu, K. Lu, K. Hauser, “Semi-Empirical Simulation of Learned Force ResponseModels for Heterogeneous Elastic Objects,” IEEE International Conference on Roboticsand Automation (ICRA) 2020.'
+citation: 'Y. Zhu, K. Lu, and K. Hauser, “Semi-Empirical Simulation of Learned Force ResponseModels for Heterogeneous Elastic Objects,” IEEE International Conference on Roboticsand Automation (ICRA) 2020.'
 ---
 In this work, a semi-empirical visuo-tactile model is proposed for heterogeneous elastic objects, which enables fast simulation.
 ![paper picture](/images/Zhu_Poke_pic_1.png)

@@ -16,7 +16,9 @@ October 2021: Our robot TRINA has been participating in the AVATAR XPRIZE compet
 
 Selected Publications
 ======
-<img style="float: left;" src="images/Auscultation_full.gif">
+<!-- <img style="float: left;" src="images/Auscultation_full.gif"> -->
+![](images/Auscultation_full.gif)
+
 *   Y. Zhu, A. Smith, and K. Hauser. _Automated Heart and Lung Auscultation in Robotic Physical Examinations_. IEEE Robotics and Automation Letters, 2022. [![pdf](images/pdf_icon_tiny.gif)](files/Zhu_Ascultation_2022.pdf) [![link](images/link_icon_tiny.gif)](https://arxiv.org/abs/2201.09511)
 
 <!-- ![](images/Auscultation_full.gif) -->
@@ -27,15 +29,18 @@ This paper presents the first implementation of autonomous robotic auscultation 
 
 *   Y. Zhu, A. Smith, and K. Hauser. _Automated Heart and Lung Auscultation in Robotic Physical Examinations_. IEEE Robotics and Automation Letters, 2022. [![pdf](images/pdf_icon_tiny.gif)](files/Zhu_Ascultation_2022.pdf) [![link](images/link_icon_tiny.gif)](https://arxiv.org/abs/2201.09511) -->
 
-<img style="float: left;" src="images/poke.gif">
+![](images/poke.gif)
+<!-- <img style="float: left;" src="images/poke.gif"> -->
 
 *   Y. Zhu, K. Lu, and K. Hauser. _Semi-Empirical Simulation of Learned Force Response Models for Heterogeneous Elastic Objects_. IEEE International Conference on Robotics and Automation (ICRA), June 2020[![pdf](images/pdf_icon_tiny.gif)](files/Zhu_Poke_2020.pdf) [![](images/mov_icon_tiny.gif) Summary video](https://youtu.be/-9sjiERznRc) [![](images/mov_icon_tiny.gif) ICRA 10-minute talk video](https://youtu.be/xdrKUddJaEU)
 
-<img style="float: left;" src="images/TO_both.gif">
+![](images/TO_both.gif)
+<!-- <img style="float: left;" src="images/TO_both.gif"> -->
 
 *   Y. Zhu, Z. Pan, and K. Hauser. _Contact-Implicit Trajectory Optimization with Learned Deformable Contacts Using Bilevel Optimization_. IEEE International Conference on Robotics and Automation (ICRA), May 2021. [![pdf](images/pdf_icon_tiny.gif)](files/Zhu_TO_2021.pdf)   [![](images/mov_icon_tiny.gif) Supplemental video](https://youtu.be/cgMl3bAGfqc)
 
-<img style="float: left;" src="images/GM.gif">
+
+<!-- <img style="float: left;" src="images/GM.gif"> -->
 ![](images/GM.gif)
 
 *   Y. Zhu, L. Abdulmajeid, and K. Hauser. _Data-driven Approach for Fast Simulation of Robot Locomotion on Granular Media_. IEEE International Conference on Robotics and Automation, May, 2019. [![pdf](images/pdf_icon_tiny.gif)](files/Zhu_GranularMedia_2019.pdf) [![](images/mov_icon_tiny.gif) Summary video](https://youtu.be/-9sjiERznRc) [![](images/mov_icon_tiny.gif) ICRA 10-minute talk video](https://youtu.be/xdrKUddJaEU)

@@ -16,55 +16,38 @@ October 2021: Our robot TRINA has been participating in the AVATAR XPRIZE compet
 
 Selected Publications
 ======
-![](images/grasp.gif)
-
-#### Meta-learning few-shot regrasping
-
-This project is ongoing. In this project, we are currently investigating the problem of meta-learning surrogate scoring functions for the few-shot regrasping problem. This is a challenging task because in addition to the visual variations of real-world objects, they often present characteristics that are not directly observable, such as center of mass. Another challenge is the goal to successfully regrasping a novel object with feedback from a few failed attempts. We are currently looking into meta-learning to address these challenges.
-
-![](Auscultation_full.gif)
+![](images/Auscultation_full.gif)
 
 #### Automated Heart and Lung Auscultation in Robotic Physical Examinations
 
-This paper presents the first implementation of autonomous robotic auscultation of heart and lung sounds. To select auscultation locations that generate high-quality sounds, a Bayesian Optimization (BO) formulation leverages visual anatomical cues to predict where high-quality sounds might be located, while using auditory feedback to adapt to patient-specific anatomical qualities. Sound quality is estimated online using machine learning models trained on a database of heart and lung stethoscope recordings. Experiments on 4 human subjects show that our system autonomously captures heart and lung sounds of similar quality compared to tele-operation by a human trained in clinical auscultation. Surprisingly, one of the subjects exhibited a previously unknown cardiac pathology that was first identified using our robot, which demonstrates the potential utility of autonomous robotic auscultation for health screening. [![link](images/link_icon_tiny.gif)](https://arxiv.org/abs/2201.09511)
+This paper presents the first implementation of autonomous robotic auscultation of heart and lung sounds. To select auscultation locations that generate high-quality sounds, a Bayesian Optimization (BO) formulation leverages visual anatomical cues to predict where high-quality sounds might be located, while using auditory feedback to adapt to patient-specific anatomical qualities. Sound quality is estimated online using machine learning models trained on a database of heart and lung stethoscope recordings. Experiments on 4 human subjects show that our system autonomously captures heart and lung sounds of similar quality compared to tele-operation by a human trained in clinical auscultation. Surprisingly, one of the subjects exhibited a previously unknown cardiac pathology that was first identified using our robot, which demonstrates the potential utility of autonomous robotic auscultation for health screening. 
 
-![](poke.gif)
+*   Y. Zhu, A. Smith, and K. Hauser. _Automated Heart and Lung Auscultation in Robotic Physical Examinations_. IEEE Robotics and Automation Letters, 2022. [![pdf](images/pdf_icon_tiny.gif)](files/Zhu_Ascultation_2022.pdf) [![link](images/link_icon_tiny.gif)](https://arxiv.org/abs/2201.09511)
+
+![](images/poke.gif)
 
 #### Semi-Empirical Simulation of Learned Force Response Models for Heterogeneous Elastic Objects
 
 This paper presents a semi-empirical method for simulating contact with elastically deformable objects whose force response is learned using entirely data-driven models. A point-based surface representation and an inhomogeneous, nonlinear force response model are learned from a robotic arm acquiring force-displacement curves from a small number of poking interactions. The simulator then estimates displacement and force response when the deformable object is in contact with an arbitrary rigid object. It does so by estimating displacements by solving a Hertzian contact model, and sums the expected forces at individual surface points through querying the learned point stiffness models as a function of their expected displacements. Experiments on a variety of challenging objects show that our approach learns force response with sufficient accuracy to generate plausible contact response for novel rigid objects.
 
-[![pdf](../images/pdf_icon_tiny.gif)](../papers/ICRA2020-Zhu-LearningElastic.pdf) [![](../images/mov_icon_tiny.gif) Summary video](https://youtu.be/-9sjiERznRc) [![](../images/mov_icon_tiny.gif) ICRA 10-minute talk video](https://youtu.be/xdrKUddJaEU)
+*   Y. Zhu, K. Lu, and K. Hauser. _Semi-Empirical Simulation of Learned Force Response Models for Heterogeneous Elastic Objects_. IEEE International Conference on Robotics and Automation (ICRA), June 2020[![pdf](images/pdf_icon_tiny.gif)](files/Zhu_Poke_2020.pdf) [![](images/mov_icon_tiny.gif) Summary video](https://youtu.be/-9sjiERznRc) [![](images/mov_icon_tiny.gif) ICRA 10-minute talk video](https://youtu.be/xdrKUddJaEU)
 
-![](TO_both.gif)
+![](images/TO_both.gif)
 
 #### Contact-Implicit Trajectory Optimization with Learned Deformable Contacts Using Bilevel Optimization
 
 Based on the previous project shown below, we present a bilevel, contact-implicit trajectory optimization (TO) formulation that searches for robot trajectories with learned soft contact models. On the lower-level, contact forces are solved via a quadratic program (QP) with the maximum dissipation principle (MDP), based on which the dynamics constraints are formulated in the upper-level TO problem that uses direct transcription. Our method uses a contact model for granular media that is learned from physical experiments, but is general to any contact model that is stick-slip, convex, and smooth. We employ a primal interior-point method with a pre-specified duality gap to solve the lower-level problem, which provides robust gradient information to the upper-level problem. We evaluate our method by optimizing locomotion trajectories of a quadruped robot on various granular terrains offline, and show that we can obtain long-horizon walking gaits of high qualities.
 
-[![pdf](../images/pdf_icon_tiny.gif)](../papers/ICRA2019-Zhu-GranularMedia.pdf) [![](../images/mov_icon_tiny.gif) ICRA video](https://youtu.be/AVyvnFREed8)
+*   Y. Zhu, Z. Pan, and K. Hauser. _Contact-Implicit Trajectory Optimization with Learned Deformable Contacts Using Bilevel Optimization_. IEEE International Conference on Robotics and Automation (ICRA), May 2021. [![pdf](images/pdf_icon_tiny.gif)](files/Zhu_TO_2021.pdf)   [![](images/mov_icon_tiny.gif) Supplemental video](https://youtu.be/cgMl3bAGfqc)
 
-![](GM.gif)
+![](images/GM.gif)
 
 #### A Data-driven Approach for Fast Simulation of Robot Locomotion on Granular Media
 
 In this paper, we propose a semi-empirical approach for simulating robot locomotion on granular media. We first develop a contact model based on the stick-slip behavior between rigid objects and granular grains, which is then learned through running extensive experiments. The contact model represents all possible contact wrenches that the granular substrate can provide as a convex volume, which our method formulates as constraints in an optimization-based contact force solver. During simulation, granular substrates are treated as rigid objects that allow penetration and the contact solver solves for wrenches that maximize frictional dissipation. We show that our method is able to simulate plausible interaction response with several granular media at interactive rates.
 
-[![pdf](../images/pdf_icon_tiny.gif)](../papers/ICRA2020-Zhu-LearningElastic.pdf) [![](../images/mov_icon_tiny.gif) Summary video](https://youtu.be/-9sjiERznRc) [![](../images/mov_icon_tiny.gif) ICRA 10-minute talk video](https://youtu.be/xdrKUddJaEU)
+*   Y. Zhu, L. Abdulmajeid, and K. Hauser. _Data-driven Approach for Fast Simulation of Robot Locomotion on Granular Media_. IEEE International Conference on Robotics and Automation, May, 2019. [![pdf](images/pdf_icon_tiny.gif)](files/Zhu_GranularMedia_2019.pdf) [![](images/mov_icon_tiny.gif) Summary video](https://youtu.be/-9sjiERznRc) [![](images/mov_icon_tiny.gif) ICRA 10-minute talk video](https://youtu.be/xdrKUddJaEU)
 
-
-<!-- <div class="pubs">
-<ul class="publications">
-	<li>Y. Zhu, A. Smith, and K. Hauser. <i>Automated Heart and Lung Auscultation in Robotic Physical Examinations</i>. IEEE Robotics and Automation Letters, 2022.
-        <span class="nw">
-            <a href="../papers/RAL2022-Zhu-Ascultation-preprint.pdf"><img class="pdf"  src="../images/pdf_icon_tiny.gif" alt="pdf"></a>
-            <a href="https://arxiv.org/abs/2201.09511"><img class="link"  src="../images/link_icon_tiny.gif" alt="link"></a>
-    </span></li>
-    <li>Y. Zhu, K. Lu, and K. Hauser. <i>Semi-Empirical Simulation of Learned Force Response Models for Heterogeneous Elastic Objects</i>. IEEE International Conference on Robotics and Automation (ICRA), June 2020 	<span class="nw"><a href="../papers/ICRA2020-Zhu-LearningElastic.pdf"><img class="pdf"  src="../images/pdf_icon_tiny.gif" alt="pdf"></a> <a href="https://youtu.be/-9sjiERznRc"><img class="mov" src="../images/mov_icon_tiny.gif"> Summary video</a> <a href="https://youtu.be/xdrKUddJaEU"><img class="mov" src="../images/mov_icon_tiny.gif"> ICRA 10-minute talk video</a></span>
-    <li>Y. Zhu, L. Abdulmajeid, and K. Hauser. <i>Data-driven Approach for Fast Simulation of Robot Locomotion on Granular Media</i>. IEEE International Conference on Robotics and Automation, May, 2019. <span class="nw"><a href="../papers/ICRA2019-Zhu-GranularMedia.pdf"><img class="pdf"  src="../images/pdf_icon_tiny.gif" alt="pdf"></a> <a href="https://youtu.be/AVyvnFREed8"><img class="mov" src="../images/mov_icon_tiny.gif"> ICRA video</a> </span></li>
-    <li>Y. Zhu, K. Lu, and K. Hauser. <i>Semi-Empirical Simulation of Learned Force Response Models for Heterogeneous Elastic Objects</i>. IEEE International Conference on Robotics and Automation (ICRA), June 2020 	<span class="nw"><a href="../papers/ICRA2020-Zhu-LearningElastic.pdf"><img class="pdf"  src="../images/pdf_icon_tiny.gif" alt="pdf"></a> <a href="https://youtu.be/-9sjiERznRc"><img class="mov" src="../images/mov_icon_tiny.gif"> Summary video</a> <a href="https://youtu.be/xdrKUddJaEU"><img class="mov" src="../images/mov_icon_tiny.gif"> ICRA 10-minute talk video</a></span>
-</ul>
-</div> -->
 
 
 

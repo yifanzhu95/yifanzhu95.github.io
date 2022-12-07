@@ -7,11 +7,44 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Yifan Zhu, and I am currently a 5th-year Ph.D. student at the Computer Science department at the University of Illinois Urbana-Champaign. I work with Prof. Kris Hauser on robotics. There are two fronts of my research. On one hand, I work on data-driven modeling of deformable objects and planning robot motions in deformable environments. On the other front, I have been developing a nursing assistant robot called TRINA with my colleagues, and enabling it with both tele-operation and autonomous capabilities.
+My name is Yifan Zhu, and I am currently a 5th-year Ph.D. student at the <a href="https://cs.illinois.edu/">Computer Science department</a> at the <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>. I am a member of the <a href="https://motion.cs.illinois.edu/">Intelligent Motion Lab</a> and work with Prof. Kris Hauser on robotics. There are two fronts of my research. On one hand, I work on data-driven modeling of deformable objects and planning robot motions in deformable environments. On the other front, I have been developing a nursing assistant robot called TRINA with my colleagues, and enabling it with both tele-operation and autonomous capabilities. You are welcome to check out <a href="https://motion.cs.illinois.edu/efficientlearning/index.html">my research page</a> on the lab website.
 
 News
 ======
-October 2021: Our robot TRINA has been participating in the AVATAR XPRIZE competition as Team AVATRINA, and we just scored 4-th in the semi-finals and are advancing to the finals! [media](https://www.xprize.org/prizes/avatar/competing-teams)
+Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competition as Team AVATRINA, and we just scored 4-th in the finals, one of the only 4 teams that completed all 10 tasks. [media](https://www.xprize.org/prizes/avatar/competing-teams)
+
+Selected Publications
+======
+<!-- <img style="float: left;" src="images/Auscultation_full.gif"> -->
+![](images/Auscultation_full.gif)
+
+*   Y. Zhu, A. Smith, and K. Hauser. _Automated Heart and Lung Auscultation in Robotic Physical Examinations_. IEEE Robotics and Automation Letters, 2022. [![pdf](images/pdf_icon_tiny.gif)](files/Zhu_Ascultation_2022.pdf) [![link](images/link_icon_tiny.gif)](https://arxiv.org/abs/2201.09511)
+
+<!-- ![](images/Auscultation_full.gif) -->
+<!-- 
+Automated Heart and Lung Auscultation in Robotic Physical Examinations
+---------------
+This paper presents the first implementation of autonomous robotic auscultation of heart and lung sounds. To select auscultation locations that generate high-quality sounds, a Bayesian Optimization (BO) formulation leverages visual anatomical cues to predict where high-quality sounds might be located, while using auditory feedback to adapt to patient-specific anatomical qualities. Sound quality is estimated online using machine learning models trained on a database of heart and lung stethoscope recordings. Experiments on 4 human subjects show that our system autonomously captures heart and lung sounds of similar quality compared to tele-operation by a human trained in clinical auscultation. Surprisingly, one of the subjects exhibited a previously unknown cardiac pathology that was first identified using our robot, which demonstrates the potential utility of autonomous robotic auscultation for health screening. 
+
+*   Y. Zhu, A. Smith, and K. Hauser. _Automated Heart and Lung Auscultation in Robotic Physical Examinations_. IEEE Robotics and Automation Letters, 2022. [![pdf](images/pdf_icon_tiny.gif)](files/Zhu_Ascultation_2022.pdf) [![link](images/link_icon_tiny.gif)](https://arxiv.org/abs/2201.09511) -->
+
+![](images/poke.gif)
+<!-- <img style="float: left;" src="images/poke.gif"> -->
+
+*   Y. Zhu, K. Lu, and K. Hauser. _Semi-Empirical Simulation of Learned Force Response Models for Heterogeneous Elastic Objects_. IEEE International Conference on Robotics and Automation (ICRA), June 2020[![pdf](images/pdf_icon_tiny.gif)](files/Zhu_Poke_2020.pdf) [![](images/mov_icon_tiny.gif) Summary video](https://youtu.be/-9sjiERznRc) [![](images/mov_icon_tiny.gif) ICRA 10-minute talk video](https://youtu.be/xdrKUddJaEU)
+
+![](images/TO_both.gif)
+<!-- <img style="float: left;" src="images/TO_both.gif"> -->
+
+*   Y. Zhu, Z. Pan, and K. Hauser. _Contact-Implicit Trajectory Optimization with Learned Deformable Contacts Using Bilevel Optimization_. IEEE International Conference on Robotics and Automation (ICRA), May 2021. [![pdf](images/pdf_icon_tiny.gif)](files/Zhu_TO_2021.pdf)   [![](images/mov_icon_tiny.gif) Supplemental video](https://youtu.be/cgMl3bAGfqc)
+
+
+<!-- <img style="float: left;" src="images/GM.gif"> -->
+![](images/GM.gif)
+
+*   Y. Zhu, L. Abdulmajeid, and K. Hauser. _Data-driven Approach for Fast Simulation of Robot Locomotion on Granular Media_. IEEE International Conference on Robotics and Automation, May, 2019. [![pdf](images/pdf_icon_tiny.gif)](files/Zhu_GranularMedia_2019.pdf) [![](images/mov_icon_tiny.gif) Summary video](https://youtu.be/-9sjiERznRc) [![](images/mov_icon_tiny.gif) ICRA 10-minute talk video](https://youtu.be/xdrKUddJaEU)
+
+
 
 Robots that I work with
 ======

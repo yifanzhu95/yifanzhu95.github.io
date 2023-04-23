@@ -11,6 +11,8 @@ My name is Yifan Zhu, and I am currently a 5th-year Ph.D. student at the <a href
 
 News
 ======
+April 2023: Our paper ``Few-shot Adaptation for Manipulating Granular Materials Under Domain Shift" is accepted to RSS 2023! We also release a scooping dataset with over 6,000 scoops on a diverse set of materials: [website](https://drillaway.github.io/scooping-dataset.html). [paper](https://arxiv.org/abs/2303.02893)
+
 Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competition as Team AVATRINA, and we just scored 4-th in the finals, one of the only 4 teams that completed all 10 tasks. [media](https://www.xprize.org/prizes/avatar/competing-teams)
 
 Selected Publications

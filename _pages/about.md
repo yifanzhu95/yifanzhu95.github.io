@@ -7,11 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Yifan Zhu, and I am currently a 5th-year Ph.D. student at the <a href="https://cs.illinois.edu/">Computer Science department</a> at the <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>. I am a member of the <a href="https://motion.cs.illinois.edu/">Intelligent Motion Lab</a> and work with Prof. Kris Hauser on robotics. There are two fronts of my research. On one hand, I work on data-driven modeling of deformable objects and planning robot motions in deformable environments. On the other front, I have been developing a nursing assistant robot called TRINA with my colleagues, and enabling it with both tele-operation and autonomous capabilities. You are welcome to check out <a href="https://motion.cs.illinois.edu/efficientlearning/index.html">my research page</a> on the lab website.
+My name is Yifan Zhu, and I am an incoming postdoctoral research scholar at the Yale <a href="https://www.eng.yale.edu/grablab/">GRAB Lab</a>, advised by Prof. Aaron Dollar. Previously, I obtained a Ph.D. at the <a href="https://cs.illinois.edu/">Computer Science department</a> at the <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>, where I was a member of the <a href="https://motion.cs.illinois.edu/">Intelligent Motion Lab</a> and advised by Prof. Kris Hauser on robotics. There are two fronts of my research. On one hand, I work on data-driven modeling of deformable objects and planning robot motions in deformable environments. On the other front, I have been developing a nursing assistant robot called TRINA with my colleagues, and enabling it with both tele-operation and autonomous capabilities. You are welcome to check out <a href="https://motion.cs.illinois.edu/efficientlearning/index.html">my research page</a> on the lab website.
 
 News
 ======
-April 2023: Our paper ``Few-shot Adaptation for Manipulating Granular Materials Under Domain Shift" is accepted to RSS 2023! We also release a scooping dataset with over 6,000 scoops on a diverse set of materials: [website](https://drillaway.github.io/scooping-dataset.html). [paper](https://arxiv.org/abs/2303.02893)
+June 2023: I successfully defended on 06/20! 
+
+April 2023: Our paper ``Few-shot Adaptation for Manipulating Granular Materials Under Domain Shift" is accepted to RSS 2023! We also release a scooping dataset with over 6,000 scoops on a diverse set of materials: [website](https://drillaway.github.io/scooping-dataset.html), [paper](https://arxiv.org/abs/2303.02893)
 
 Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competition as Team AVATRINA, and we just scored 4-th in the finals, one of the only 4 teams that completed all 10 tasks. [media](https://www.xprize.org/prizes/avatar/competing-teams)
 

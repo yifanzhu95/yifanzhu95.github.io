@@ -19,14 +19,13 @@ Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competitio
 
 Selected Publications
 ======
+![](images/TRINA.PNG)
+
+*   J. Marques\*, P. Naughton\*, J. C. Peng\*, ,<u><b>Y. Zhu*</b></u>,J. S. Nam, Q. Kong, X. Zhang, A. Penmetcha, R. Ji, N. Fu, V. Ravibaskar, R. Yan, N. Malhotra, and K. Hauser, ``Immersive Commodity Telepresence with the TRINA Robot Avatar,” International Journal of Social Robots, 2024. [![link](images/pdf_icon_tiny.gif)](https://link.springer.com/article/10.1007/s12369-023-01090-1) (\* Denotes equal contribution)
+
 ![](images/animation-datacollection.gif)
 
-*   J. Marques*, P. Naughton*, J. C. Peng*, ,<u><b>Y. Zhu*</b></u>,J. S. Nam, Q. Kong, X. Zhang, A. Penmetcha, R. Ji, N. Fu, V. Ravibaskar, R. Yan, N. Malhotra, and K. Hauser, ``Immersive Commodity Telepresence with the TRINA Robot Avatar,” International Journal of Social Robots, 2024. [![link](images/pdf_icon_tiny.gif)](https://link.springer.com/article/10.1007/s12369-023-01090-1) 
-(* Denotes equal contribution)
-
-![](images/animation-datacollection.gif)
-
-*   <u><b>Y. Zhu*</b></u>, P. Thangeda*, M. Ornik and K. Hauser. _Few-shot Adaptation for Manipulating Granular Materials Under Domain Shift_. Robotics: Science and Systems (RSS), 2023. [![link](images/pdf_icon_tiny.gif)](https://arxiv.org/abs/2303.02893) [![Website&Dataset](images/link_icon_tiny.gif)](https://drillaway.github.io/scooping-dataset.html) (* Denotes equal contribution)
+*   <u><b>Y. Zhu*</b></u>, P. Thangeda\*, M. Ornik and K. Hauser. _Few-shot Adaptation for Manipulating Granular Materials Under Domain Shift_. Robotics: Science and Systems (RSS), 2023. [![link](images/pdf_icon_tiny.gif)](https://arxiv.org/abs/2303.02893) [![Website&Dataset](images/link_icon_tiny.gif)](https://drillaway.github.io/scooping-dataset.html) (\* Denotes equal contribution)
 
 
 <!-- <img style="float: left;" src="images/Auscultation_full.gif"> -->

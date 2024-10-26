@@ -7,7 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Yifan Zhu, and I am a postdoctoral research scholar at the Yale <a href="https://www.eng.yale.edu/grablab/">GRAB Lab</a>, advised by Prof. Aaron Dollar. Previously, I obtained a Ph.D. at the <a href="https://cs.illinois.edu/">Computer Science department</a> at the <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>, where I was a member of the <a href="https://motion.cs.illinois.edu/">Intelligent Motion Lab</a> and advised by Prof. Kris Hauser on robotics. There are two fronts of my research. On one hand, I work on data-driven modeling of deformable objects and planning robot motions in deformable environments. On the other front, I have been developing a nursing assistant robot called TRINA with my colleagues, and enabling it with both tele-operation and autonomous capabilities. You are welcome to check out <a href="https://motion.cs.illinois.edu/efficientlearning/index.html">my research page</a> on the lab website.
+My name is Yifan Zhu, and I am a postdoctoral research scholar at the Yale <a href="https://www.eng.yale.edu/grablab/">GRAB Lab</a>, advised by Prof. Aaron Dollar. Previously, I obtained a Ph.D. at the <a href="https://cs.illinois.edu/">Computer Science department</a> at the <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>, where I was a member of the <a href="https://motion.cs.illinois.edu/">Intelligent Motion Lab</a> and advised by Prof. Kris Hauser on robotics. You are also welcome to check out <a href="https://motion.cs.illinois.edu/efficientlearning/index.html">my old research page</a> on the lab website.
+
+<i>My research vision is to develop fundamental technologies that enable robots to understand their contacts with
+the external world from proactive interactions and perform meaningful tasks.</i> My prior research lies at the intersection of physics modeling, optimization, machine learning, hardware design. I aim to develop representations for robots that facilitate tight integration of physics modeling and machine learning for predictive world modeling from visual-tactile perceptions, especially in the low-data regime. 
+
+<span style="color: red;font-weight: bold;">I am currently on the faculty job market for the 2024-25 cycle!</span>
+<!-- There are two fronts of my research. On one hand, I work on data-driven modeling of deformable objects and planning robot motions in deformable environments. On the other front, I have been developing a nursing assistant robot called TRINA with my colleagues, and enabling it with both tele-operation and autonomous capabilities.  -->
 
 News
 ======
@@ -17,46 +23,121 @@ April 2023: Our paper ``Few-shot Adaptation for Manipulating Granular Materials 
 
 Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competition as Team AVATRINA, and we just scored 4-th in the finals, one of the only 4 teams that completed all 10 tasks: [media](https://www.xprize.org/prizes/avatar/competing-teams).
 
-Selected Publications
-======
-![](images/TRINA.PNG)
-
-*   J. Marques\*, P. Naughton\*, J. C. Peng\*, ,<u><b>Y. Zhu*</b></u>,J. S. Nam, Q. Kong, X. Zhang, A. Penmetcha, R. Ji, N. Fu, V. Ravibaskar, R. Yan, N. Malhotra, and K. Hauser, ``Immersive Commodity Telepresence with the TRINA Robot Avatar,” International Journal of Social Robots, 2024. [![link](images/pdf_icon_tiny.gif)](https://link.springer.com/article/10.1007/s12369-023-01090-1) (\* Denotes equal contribution)
-
-![](images/animation-datacollection.gif)
-
-*   <u><b>Y. Zhu*</b></u>, P. Thangeda\*, M. Ornik and K. Hauser. _Few-shot Adaptation for Manipulating Granular Materials Under Domain Shift_. Robotics: Science and Systems (RSS), 2023. [![link](images/pdf_icon_tiny.gif)](https://arxiv.org/abs/2303.02893) [![Website&Dataset](images/link_icon_tiny.gif)](https://drillaway.github.io/scooping-dataset.html) (\* Denotes equal contribution)
 
 
-<!-- <img style="float: left;" src="images/Auscultation_full.gif"> -->
-![](images/Auscultation_full.gif)
+<style>
+.publications-section {
+    margin: 40px 0;
+}
 
-*   <u><b>Y. Zhu</b></u>, A. Smith, and K. Hauser. _Automated Heart and Lung Auscultation in Robotic Physical Examinations_. IEEE Robotics and Automation Letters, 2022. [![pdf](images/pdf_icon_tiny.gif)](files/Zhu_Ascultation_2022.pdf) [![link](images/link_icon_tiny.gif)](https://arxiv.org/abs/2201.09511)
+.publication-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    margin-bottom: 40px;
+}
 
-<!-- ![](images/Auscultation_full.gif) -->
-<!-- 
-Automated Heart and Lung Auscultation in Robotic Physical Examinations
----------------
-This paper presents the first implementation of autonomous robotic auscultation of heart and lung sounds. To select auscultation locations that generate high-quality sounds, a Bayesian Optimization (BO) formulation leverages visual anatomical cues to predict where high-quality sounds might be located, while using auditory feedback to adapt to patient-specific anatomical qualities. Sound quality is estimated online using machine learning models trained on a database of heart and lung stethoscope recordings. Experiments on 4 human subjects show that our system autonomously captures heart and lung sounds of similar quality compared to tele-operation by a human trained in clinical auscultation. Surprisingly, one of the subjects exhibited a previously unknown cardiac pathology that was first identified using our robot, which demonstrates the potential utility of autonomous robotic auscultation for health screening. 
+.publication-image {
+    flex: 0 0 200px;
+}
 
-*   Y. Zhu, A. Smith, and K. Hauser. _Automated Heart and Lung Auscultation in Robotic Physical Examinations_. IEEE Robotics and Automation Letters, 2022. [![pdf](images/pdf_icon_tiny.gif)](files/Zhu_Ascultation_2022.pdf) [![link](images/link_icon_tiny.gif)](https://arxiv.org/abs/2201.09511) -->
+.publication-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
 
-![](images/poke.gif)
-<!-- <img style="float: left;" src="images/poke.gif"> -->
+.publication-content {
+    flex: 1;
+}
 
-*   <u><b>Y. Zhu</b></u>, K. Lu, and K. Hauser. _Semi-Empirical Simulation of Learned Force Response Models for Heterogeneous Elastic Objects_. IEEE International Conference on Robotics and Automation (ICRA), June 2020[![pdf](images/pdf_icon_tiny.gif)](files/Zhu_Poke_2020.pdf) [![](images/mov_icon_tiny.gif) Summary video](https://youtu.be/-9sjiERznRc) [![](images/mov_icon_tiny.gif) ICRA 10-minute talk video](https://youtu.be/xdrKUddJaEU)
+.publication-title {
+    font-style: italic;
+    margin: 0;
+}
 
-![](images/TO_both.gif)
-<!-- <img style="float: left;" src="images/TO_both.gif"> -->
+.publication-venue {
+    margin: 5px 0;
+}
 
-*   <u><b>Y. Zhu</b></u>, Z. Pan, and K. Hauser. _Contact-Implicit Trajectory Optimization with Learned Deformable Contacts Using Bilevel Optimization_. IEEE International Conference on Robotics and Automation (ICRA), May 2021. [![pdf](images/pdf_icon_tiny.gif)](files/Zhu_TO_2021.pdf)   [![](images/mov_icon_tiny.gif) Supplemental video](https://youtu.be/cgMl3bAGfqc)
+.publication-link {
+    margin-left: 5px;
+    text-decoration: none;
+}
 
+.video-link {
+    margin-left: 5px;
+    text-decoration: none;
+    color: inherit;
+}
+</style>
 
-<!-- <img style="float: left;" src="images/GM.gif"> -->
-![](images/GM.gif)
+<h1>Selected Publications</h1>
+  <div class="publications-section">
+    <div class="publication-container">
+        <div class="publication-image">
+            <img src="images/TRINA.PNG" alt="TRINA Publication Image">
+        </div>
+        <div class="publication-content">
+            J. Marques*, P. Naughton*, J. C. Peng*, <u><b>Y. Zhu*</b></u>, J. S. Nam, Q. Kong, X. Zhang, A. Penmetcha, R. Ji, N. Fu, V. Ravibaskar, R. Yan, N. Malhotra, and K. Hauser, "Immersive Commodity Telepresence with the TRINA Robot Avatar," International Journal of Social Robots, 2024. <a href="https://link.springer.com/article/10.1007/s12369-023-01090-1" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF link"></a> (* Denotes equal contribution)
+        </div>
+    </div>
 
-*   <u><b>Y. Zhu</b></u>, L. Abdulmajeid, and K. Hauser. _Data-driven Approach for Fast Simulation of Robot Locomotion on Granular Media_. IEEE International Conference on Robotics and Automation, May, 2019. [![pdf](images/pdf_icon_tiny.gif)](files/Zhu_GranularMedia_2019.pdf) [![](images/mov_icon_tiny.gif) Summary video](https://youtu.be/-9sjiERznRc) [![](images/mov_icon_tiny.gif) ICRA 10-minute talk video](https://youtu.be/xdrKUddJaEU)
+    <div class="publication-container">
+        <div class="publication-image">
+            <img src="images/animation-datacollection.gif" alt="Scooping Publication Image">
+        </div>
+        <div class="publication-content">
+            <u><b>Y. Zhu*</b></u>, P. Thangeda\*, M. Ornik and K. Hauser., "Few-shot Adaptation for Manipulating Granular Materials Under Domain Shift," Robotics: Science and Systems (RSS), 2023. <a href="https://arxiv.org/abs/2303.02893" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF link"></a> <a href="https://drillaway.github.io/scooping-dataset.html" class="publication-link"><img src="images/link_icon_tiny.gif" alt="Website&Dataset"></a>(* Denotes equal contribution)
+        </div>
+    </div>
 
+    <div class="publication-container">
+        <div class="publication-image">
+            <img src="images/Auscultation_full.gif" alt="Auscultation Publication Image">
+        </div>
+        <div class="publication-content">
+            <u><b>Y. Zhu</b></u>, A. Smith, and K. Hauser, "Automated Heart and Lung Auscultation in Robotic Physical Examinations," IEEE Robotics and Automation Letters (RA-L), 2022. <a href="https://arxiv.org/abs/2201.09511" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF link"></a> 
+        </div>
+    </div>
+
+    <!-- First Publication -->
+    <div class="publication-container">
+        <div class="publication-image">
+            <img src="images/poke.gif" alt="Poke Research">
+        </div>
+        <div class="publication-content">
+            <u><b>Y. Zhu</b></u>, K. Lu, and K. Hauser. <i>Semi-Empirical Simulation of Learned Force Response Models for Heterogeneous Elastic Objects</i>. IEEE International Conference on Robotics and Automation (ICRA), June 2020
+            <a href="files/Zhu_Poke_2020.pdf" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF"></a>
+            <a href="https://youtu.be/-9sjiERznRc" class="video-link"><img src="images/mov_icon_tiny.gif" alt="Video"> Summary video</a>
+            <a href="https://youtu.be/xdrKUddJaEU" class="video-link"><img src="images/mov_icon_tiny.gif" alt="Video"> ICRA 10-minute talk video</a>
+        </div>
+    </div>
+
+    <div class="publication-container">
+        <div class="publication-image">
+            <img src="images/TO_both.gif" alt="TO Research">
+        </div>
+        <div class="publication-content">
+            <u><b>Y. Zhu</b></u>, Z. Pan, and K. Hauser. <i>Contact-Implicit Trajectory Optimization with Learned Deformable Contacts Using Bilevel Optimization</i>. IEEE International Conference on Robotics and Automation (ICRA), May 2021.
+            <a href="files/Zhu_TO_2021.pdf" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF"></a>
+            <a href="https://youtu.be/cgMl3bAGfqc" class="video-link"><img src="images/mov_icon_tiny.gif" alt="Video"> Supplemental video</a>
+        </div>
+    </div>
+
+    <!-- Third Publication -->
+    <div class="publication-container">
+        <div class="publication-image">
+            <img src="images/GM.gif" alt="Granular Media Research">
+        </div>
+        <div class="publication-content">
+            <u><b>Y. Zhu</b></u>, L. Abdulmajeid, and K. Hauser. <i>Data-driven Approach for Fast Simulation of Robot Locomotion on Granular Media</i>. IEEE International Conference on Robotics and Automation, May, 2019.
+            <a href="files/Zhu_GranularMedia_2019.pdf" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF"></a>
+            <a href="https://youtu.be/-9sjiERznRc" class="video-link"><img src="images/mov_icon_tiny.gif" alt="Video"> Summary video</a>
+            <a href="https://youtu.be/xdrKUddJaEU" class="video-link"><img src="images/mov_icon_tiny.gif" alt="Video"> ICRA 10-minute talk video</a>
+        </div>
+    </div>
+</div>
 
 
 Robots that I work with

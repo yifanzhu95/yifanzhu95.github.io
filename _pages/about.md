@@ -92,7 +92,7 @@ Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competitio
             <img src="images/animation-datacollection.gif" alt="Scooping Publication Image">
         </div>
         <div class="publication-content">
-            <u><b>Y. Zhu*</b></u>, P. Thangeda\*, M. Ornik and K. Hauser., "Few-shot Adaptation for Manipulating Granular Materials Under Domain Shift," Robotics: Science and Systems (RSS), 2023. <a href="https://arxiv.org/abs/2303.02893" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF link"></a> <a href="https://drillaway.github.io/scooping-dataset.html" class="publication-link"><img src="images/link_icon_tiny.gif" alt="Website&Dataset"></a>(* Denotes equal contribution)
+            <u><b>Y. Zhu*</b></u>, P. Thangeda*, M. Ornik and K. Hauser., "Few-shot Adaptation for Manipulating Granular Materials Under Domain Shift," Robotics: Science and Systems (RSS), 2023. <a href="https://arxiv.org/abs/2303.02893" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF link"></a> <a href="https://drillaway.github.io/scooping-dataset.html" class="publication-link"><img src="images/link_icon_tiny.gif" alt="Website&Dataset"></a>(* Denotes equal contribution)
         </div>
     </div>
 

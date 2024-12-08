@@ -83,7 +83,7 @@ Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competitio
             <img src="images/WM.PNG" alt="WM Image">
         </div>
         <div class="publication-content">
-            <u><b>Y. Zhu</b></u>, T. Xiang, A. Dollar, and Z. Pan, "Real-to-Sim via End-to-End Differentiable Simulation and Rendering", 2024. <a href="files/RAL2024_SimFromVid.pdf" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF"></a> 
+            <u><b>Y. Zhu</b></u>, T. Xiang, A. Dollar, and Z. Pan, "One-Shot Real-to-Sim via End-to-End Differentiable Simulation and Rendering", 2024. <a href="files/RAL2024_SimFromVid.pdf" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF"></a> 
         </div>
     </div>
 

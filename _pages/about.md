@@ -14,7 +14,7 @@ My name is Yifan Zhu, and I am a postdoctoral research scholar at the Yale <a hr
 <i>My research vision is to develop fundamental technologies that enable robots to understand their contacts with
 the external world from proactive interactions and perform meaningful tasks.</i> My prior research lies at the intersection of physics modeling, optimization, machine learning, hardware design. I aim to develop representations for robots that facilitate tight integration of physics modeling and machine learning for predictive world modeling from visual-tactile perceptions, especially in the low-data regime. 
 <p>
-<span style="color: red;font-weight: bold;">I am currently on the faculty job market for the 2024-25 cycle!</span>
+<span style="color: red;font-weight: bold;">I am currently on the job market!</span>
 </p>
 </div>
 <!-- There are two fronts of my research. On one hand, I work on data-driven modeling of deformable objects and planning robot motions in deformable environments. On the other front, I have been developing a nursing assistant robot called TRINA with my colleagues, and enabling it with both tele-operation and autonomous capabilities.  -->

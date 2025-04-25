@@ -77,6 +77,7 @@ Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competitio
 </style>
 
 <h1>Preprints</h1>
+    <div class="publications-section">
     <div class="publication-container">
         <div class="publication-image">
             <img src="images/jinhoo.PNG" alt="Jinhoo Project Image">
@@ -85,11 +86,11 @@ Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competitio
             J. Kim*, <u><b>Y. Zhu*</b></u>, and A. Dollar, "Tactile Probabilistic Contact Dynamics Estimation of Unknown Objects", 2024. <a href="files/ICRA2024_Kim_LocalDynActiveLearning.pdf" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF"></a> (* Denotes equal contribution)
         </div>
     </div>
+    </div>
 </div>
 
-
 <h1>Selected Publications</h1>
-<div class="publications-section">
+    <div class="publications-section">
     <div class="publication-container">
         <div class="publication-image">
             <img src="images/WM.PNG" alt="WM Image">
@@ -109,7 +110,7 @@ Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competitio
             J. Marques*, P. Naughton*, J. C. Peng*, <u><b>Y. Zhu*</b></u>, J. S. Nam, Q. Kong, X. Zhang, A. Penmetcha, R. Ji, N. Fu, V. Ravibaskar, R. Yan, N. Malhotra, and K. Hauser, "Immersive Commodity Telepresence with the TRINA Robot Avatar," International Journal of Social Robots, 2024. <a href="https://link.springer.com/article/10.1007/s12369-023-01090-1" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF link"></a> (* Denotes equal contribution)
         </div>
     </div>
-
+    <div class="publications-section">
     <div class="publication-container">
         <div class="publication-image">
             <img src="images/animation-datacollection.gif" alt="Scooping Publication Image">
@@ -118,7 +119,7 @@ Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competitio
             <u><b>Y. Zhu*</b></u>, P. Thangeda*, M. Ornik and K. Hauser., "Few-shot Adaptation for Manipulating Granular Materials Under Domain Shift," Robotics: Science and Systems (RSS), 2023. <a href="https://arxiv.org/abs/2303.02893" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF link"></a> <a href="https://drillaway.github.io/scooping-dataset.html" class="publication-link"><img src="images/link_icon_tiny.gif" alt="Website&Dataset"></a>(* Denotes equal contribution)
         </div>
     </div>
-
+    <div class="publications-section">
     <div class="publication-container">
         <div class="publication-image">
             <img src="images/Auscultation_full.gif" alt="Auscultation Publication Image">
@@ -127,7 +128,8 @@ Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competitio
             <u><b>Y. Zhu</b></u>, A. Smith, and K. Hauser, "Automated Heart and Lung Auscultation in Robotic Physical Examinations," IEEE Robotics and Automation Letters (RA-L), 2022. <a href="https://arxiv.org/abs/2201.09511" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF link"></a> 
         </div>
     </div>
-
+    </div>
+    <div class="publications-section">
     <!-- First Publication -->
     <div class="publication-container">
         <div class="publication-image">
@@ -140,7 +142,8 @@ Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competitio
             <a href="https://youtu.be/xdrKUddJaEU" class="video-link"><img src="images/mov_icon_tiny.gif" alt="Video"> ICRA 10-minute talk video</a>
         </div>
     </div>
-
+    </div>
+    <div class="publications-section">
     <div class="publication-container">
         <div class="publication-image">
             <img src="images/TO_both.gif" alt="TO Research">
@@ -151,7 +154,8 @@ Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competitio
             <a href="https://youtu.be/cgMl3bAGfqc" class="video-link"><img src="images/mov_icon_tiny.gif" alt="Video"> Supplemental video</a>
         </div>
     </div>
-
+    </div>
+    <div class="publications-section">
     <!-- Third Publication -->
     <div class="publication-container">
         <div class="publication-image">

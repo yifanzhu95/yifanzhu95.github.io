@@ -77,8 +77,8 @@ Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competitio
 </style>
 
 
-<h1>Preprints</h1>
-    <div class="publications-section">
+<!-- <h1>Preprints</h1>
+<div class="publications-section">
     <div class="publication-container">
         <div class="publication-image">
             <img src="images/jinhoo.PNG" alt="Jinhoo Project Image">
@@ -87,7 +87,9 @@ Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competitio
             J. Kim*, <u><b>Y. Zhu*</b></u>, and A. Dollar, "Tactile Probabilistic Contact Dynamics Estimation of Unknown Objects", 2024. <a href="files/ICRA2024_Kim_LocalDynActiveLearning.pdf" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF"></a> (* Denotes equal contribution)
         </div>
     </div>
-    </div>
+</div> -->
+
+
 
 
 <h1>Selected Publications</h1>

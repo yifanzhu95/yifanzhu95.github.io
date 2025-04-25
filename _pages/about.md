@@ -77,16 +77,6 @@ Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competitio
 </style>
 
 <h1>Preprints</h1>
-  <div class="publications-section">
-    <div class="publication-container">
-        <div class="publication-image">
-            <img src="images/WM.PNG" alt="WM Image">
-        </div>
-        <div class="publication-content">
-            <u><b>Y. Zhu</b></u>, T. Xiang, A. Dollar, and Z. Pan, "One-Shot Real-to-Sim via End-to-End Differentiable Simulation and Rendering", 2024. <a href="files/RAL2024_SimFromVid.pdf" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF"></a> 
-        </div>
-    </div>
-
     <div class="publication-container">
         <div class="publication-image">
             <img src="images/jinhoo.PNG" alt="Jinhoo Project Image">
@@ -99,6 +89,17 @@ Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competitio
 
 
 <h1>Selected Publications</h1>
+<div class="publications-section">
+    <div class="publication-container">
+        <div class="publication-image">
+            <img src="images/WM.PNG" alt="WM Image">
+        </div>
+        <div class="publication-content">
+            <u><b>Y. Zhu</b></u>, T. Xiang, A. Dollar, and Z. Pan, "One-Shot Real-to-Sim via End-to-End Differentiable Simulation and Rendering", IEEE RA-L, 2025. <a href="files/RAL2024_SimFromVid.pdf" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF"></a> 
+        </div>
+    </div>
+
+
   <div class="publications-section">
     <div class="publication-container">
         <div class="publication-image">

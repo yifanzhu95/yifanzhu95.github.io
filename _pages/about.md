@@ -9,18 +9,24 @@ redirect_from:
 ---
 <div style="text-align: justify;">
 <p>
-My name is Yifan Zhu, and I am a postdoctoral research scholar at the Yale <a href="https://www.eng.yale.edu/grablab/">GRAB Lab</a>, advised by Prof. Aaron Dollar. Previously, I obtained a Ph.D. at the <a href="https://cs.illinois.edu/">Computer Science department</a> at the <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>, where I was a member of the <a href="https://motion.cs.illinois.edu/">Intelligent Motion Lab</a> and advised by Prof. Kris Hauser on robotics. You are also welcome to check out <a href="https://motion.cs.illinois.edu/efficientlearning/index.html">my old research page</a> on the lab website.
+My name is Yifan Zhu, and I am an incoming assistant professor at the <a href="https://cs.uic.edu/">Computer Science department</a> at the <a href="https://www.uic.edu/">University of Illinois Chicago</a>. I am currently a postdoctoral research scholar at the Yale <a href="https://www.eng.yale.edu/grablab/">GRAB Lab</a>, advised by Prof. Aaron Dollar. Previously, I obtained a Ph.D. from the <a href="https://cs.illinois.edu/">Computer Science department</a> at the <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>, where I was a member of the <a href="https://motion.cs.illinois.edu/">Intelligent Motion Lab</a> and advised by Prof. Kris Hauser on robotics. You are also welcome to check out <a href="https://motion.cs.illinois.edu/efficientlearning/index.html">my old research page</a> on the lab website.
 </p>
+<p>
 <i>My research vision is to develop fundamental technologies that enable robots to understand their contacts with
 the external world from proactive interactions and perform meaningful tasks.</i> My prior research lies at the intersection of physics modeling, optimization, machine learning, hardware design. I aim to develop representations for robots that facilitate tight integration of physics modeling and machine learning for predictive world modeling from visual-tactile perceptions, especially in the low-data regime. 
+</p>
 <p>
-<span style="color: red;font-weight: bold;">I am currently on the job market!</span>
+Prospective students: I am planning to hire Ph.D. students with the earliest enrollment date of Spring 2026. If you are interested in working with me, please email me with a brief self-introduction and your most recent CV, and make sure to start your email title with [Prospective Student]. Thank you so much for your interest! 
 </p>
 </div>
 <!-- There are two fronts of my research. On one hand, I work on data-driven modeling of deformable objects and planning robot motions in deformable environments. On the other front, I have been developing a nursing assistant robot called TRINA with my colleagues, and enabling it with both tele-operation and autonomous capabilities.  -->
 
+
+
 News
 ======
+June 2025: I am starting as an assistant professor at CS@UIC this Fall! 
+
 June 2023: I successfully defended on 06/20! 
 
 April 2023: Our paper ``Few-shot Adaptation for Manipulating Granular Materials Under Domain Shift" is accepted to RSS 2023! We also release a scooping dataset with over 6,000 scoops on a diverse set of materials: [website](https://drillaway.github.io/scooping-dataset.html), [paper](https://arxiv.org/abs/2303.02893).
@@ -99,7 +105,16 @@ Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competitio
             <img src="images/WM.PNG" alt="WM Image">
         </div>
         <div class="publication-content">
-            <u><b>Y. Zhu</b></u>, T. Xiang, A. Dollar, and Z. Pan, "One-Shot Real-to-Sim via End-to-End Differentiable Simulation and Rendering", IEEE RA-L, 2025. <a href="files/RAL2024_SimFromVid.pdf" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF"></a> 
+            <u><b>Y. Zhu</b></u>*, M. Hao*, X. Zhu*, Q. Bateux, A. Wang, and A. M. Dollar, "Forces for Free: Vision-Based Contact Force Estimation with a Compliant Hand", Science Robotics,  2025 (To appear). 
+        </div>
+    </div>
+
+    <div class="publication-container">
+        <div class="publication-image">
+            <img src="images/WM.PNG" alt="WM Image">
+        </div>
+        <div class="publication-content">
+            <u><b>Y. Zhu</b></u>, T. Xiang, A. M. Dollar, and Z. Pan, "One-Shot Real-to-Sim via End-to-End Differentiable Simulation and Rendering", IEEE RA-L, 2025. <a href="files/RAL2024_SimFromVid.pdf" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF"></a> 
         </div>
     </div>
 

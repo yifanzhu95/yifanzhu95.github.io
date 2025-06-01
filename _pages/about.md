@@ -102,7 +102,7 @@ Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competitio
 <div class="publications-section">
     <div class="publication-container">
         <div class="publication-image">
-            <img src="images/WM.PNG" alt="WM Image">
+            <img src="images/visionforce.jpg" alt="visionforce Image">
         </div>
         <div class="publication-content">
             <u><b>Y. Zhu</b></u>*, M. Hao*, X. Zhu*, Q. Bateux, A. Wang, and A. M. Dollar, "Forces for Free: Vision-Based Contact Force Estimation with a Compliant Hand", Science Robotics,  2025 (To appear). 
@@ -114,7 +114,7 @@ Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competitio
             <img src="images/WM.PNG" alt="WM Image">
         </div>
         <div class="publication-content">
-            <u><b>Y. Zhu</b></u>, T. Xiang, A. M. Dollar, and Z. Pan, "One-Shot Real-to-Sim via End-to-End Differentiable Simulation and Rendering", IEEE RA-L, 2025. <a href="files/RAL2024_SimFromVid.pdf" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF"></a> 
+            <u><b>Y. Zhu</b></u>, T. Xiang, A. M. Dollar, and Z. Pan, "One-Shot Real-to-Sim via End-to-End Differentiable Simulation and Rendering", IEEE RA-L, 2025. <a href="files/RAL2024_SimFromVid.pdf" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF"></a><a href="https://tianyi20.github.io/rigid-world-model.github.io/" class="publication-link"><img src="images/link_icon_tiny.gif" alt="Website&Dataset"></a> 
         </div>
     </div>
 

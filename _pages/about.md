@@ -105,7 +105,7 @@ Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competitio
             <img src="images/visionforce.jpg" alt="visionforce Image">
         </div>
         <div class="publication-content">
-            <u><b>Y. Zhu</b></u>*, M. Hao*, X. Zhu*, Q. Bateux, A. Wang, and A. M. Dollar, "Forces for Free: Vision-Based Contact Force Estimation with a Compliant Hand", Science Robotics,  2025 (To appear). 
+            <u><b>Y. Zhu</b></u>*, M. Hao*, X. Zhu*, Q. Bateux, A. Wang, and A. M. Dollar, "Forces for Free: Vision-Based Contact Force Estimation with a Compliant Hand", Science Robotics,  2025 (To appear). (* Denotes equal contribution) 
         </div>
     </div>
 

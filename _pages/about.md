@@ -25,6 +25,8 @@ the external world from proactive interactions and perform meaningful tasks.</i>
 
 News
 ======
+June 2025: Our paper ``Forces for Free: Vision-Based Contact Force Estimation with a Compliant Hand" is published at Science Robotics! <a href="https://www.science.org/doi/10.1126/scirobotics.adq5046" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF"></a>
+
 June 2025: I am starting as an assistant professor at CS@UIC this Fall! 
 
 June 2023: I successfully defended on 06/20! 
@@ -105,7 +107,7 @@ Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competitio
             <img src="images/visionforce.jpg" alt="visionforce Image">
         </div>
         <div class="publication-content">
-            <u><b>Y. Zhu</b></u>*, M. Hao*, X. Zhu*, Q. Bateux, A. Wang, and A. M. Dollar, "Forces for Free: Vision-Based Contact Force Estimation with a Compliant Hand", Science Robotics,  2025. (* Denotes equal contribution) <a href="https://www.science.org/doi/10.1126/scirobotics.adq5046" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF">
+            <u><b>Y. Zhu</b></u>*, M. Hao*, X. Zhu*, Q. Bateux, A. Wang, and A. M. Dollar, "Forces for Free: Vision-Based Contact Force Estimation with a Compliant Hand", Science Robotics,  2025. (* Denotes equal contribution) <a href="https://www.science.org/doi/10.1126/scirobotics.adq5046" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF"></a>
         </div>
     </div>
 

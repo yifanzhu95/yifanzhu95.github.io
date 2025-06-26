@@ -25,13 +25,13 @@ the external world from proactive interactions and perform meaningful tasks.</i>
 
 News
 ======
-June 2025: Our paper ``Forces for Free: Vision-Based Contact Force Estimation with a Compliant Hand" is published at Science Robotics! <a href="https://www.science.org/doi/10.1126/scirobotics.adq5046" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF"></a>
+June 2025: Our paper *Forces for Free: Vision-Based Contact Force Estimation with a Compliant Hand* is published at Science Robotics! <a href="https://www.science.org/doi/10.1126/scirobotics.adq5046" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF"></a>
 
 June 2025: I am starting as an assistant professor at CS@UIC this Fall! 
 
 June 2023: I successfully defended on 06/20! 
 
-April 2023: Our paper ``Few-shot Adaptation for Manipulating Granular Materials Under Domain Shift" is accepted to RSS 2023! We also release a scooping dataset with over 6,000 scoops on a diverse set of materials: [website](https://drillaway.github.io/scooping-dataset.html), [paper](https://arxiv.org/abs/2303.02893).
+April 2023: Our paper *Few-shot Adaptation for Manipulating Granular Materials Under Domain Shift* is accepted to RSS 2023! We also release a scooping dataset with over 6,000 scoops on a diverse set of materials: [website](https://drillaway.github.io/scooping-dataset.html), [paper](https://arxiv.org/abs/2303.02893).
 
 Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competition as Team AVATRINA, and we just scored 4-th in the finals, one of the only 4 teams that completed all 10 tasks: [media](https://www.xprize.org/prizes/avatar/competing-teams).
 

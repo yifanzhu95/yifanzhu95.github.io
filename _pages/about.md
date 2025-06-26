@@ -31,7 +31,7 @@ June 2025: I am starting as an assistant professor at CS@UIC this Fall!
 
 June 2023: I successfully defended on 06/20! 
 
-April 2023: Our paper *Few-shot Adaptation for Manipulating Granular Materials Under Domain Shift* is accepted to RSS 2023! We also release a scooping dataset with over 6,000 scoops on a diverse set of materials: [website](https://drillaway.github.io/scooping-dataset.html), [paper](https://arxiv.org/abs/2303.02893).
+April 2023: Our paper *Few-shot Adaptation for Manipulating Granular Materials Under Domain Shift* is accepted to RSS 2023! We also release a scooping dataset with over 6,000 scoops on a diverse set of materials: <a href="https://arxiv.org/abs/2303.02893" class="publication-link"><img src="images/pdf_icon_tiny.gif" alt="PDF link"></a> <a href="https://drillaway.github.io/scooping-dataset.html" class="publication-link"><img src="images/link_icon_tiny.gif" alt="Website&Dataset"></a>
 
 Nov 2022: Our robot TRINA has been participating in the AVATAR XPRIZE competition as Team AVATRINA, and we just scored 4-th in the finals, one of the only 4 teams that completed all 10 tasks: [media](https://www.xprize.org/prizes/avatar/competing-teams).
 

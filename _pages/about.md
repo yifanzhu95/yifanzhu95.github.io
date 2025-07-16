@@ -16,9 +16,12 @@ My name is Yifan Zhu, and I am an incoming assistant professor at the <a href="h
 the external world from proactive interactions and perform meaningful tasks.</i> My prior research lies at the intersection of physics modeling, optimization, machine learning, hardware design. I aim to develop representations for robots that facilitate tight integration of physics modeling and machine learning for predictive world modeling from visual-tactile perceptions, especially in the low-data regime. 
 </p>
 <p>
-<strong>Prospective students:</strong> I am planning to hire Ph.D. students with the earliest enrollment date of Spring 2026. If you are interested in working with me, please check my <a href="files/recruitment_statement.pdf">recruitment statement</a>. Thank you so much for your interest! 
+<strong>Prospective students:</strong> For PhD students, please directly apply to our department's CS program, and indicate that you would like to work with me. For current MS or undergraduate students
 </p>
 </div>
+
+<!-- I am planning to hire Ph.D. students with the earliest enrollment date of Spring 2026. If you are interested in working with me, please check my <a href="files/recruitment_statement.pdf">recruitment statement</a>. Thank you so much for your interest!  -->
+
 <!-- There are two fronts of my research. On one hand, I work on data-driven modeling of deformable objects and planning robot motions in deformable environments. On the other front, I have been developing a nursing assistant robot called TRINA with my colleagues, and enabling it with both tele-operation and autonomous capabilities.  -->
 
 

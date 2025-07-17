@@ -16,7 +16,7 @@ My name is Yifan Zhu, and I am an incoming assistant professor at the <a href="h
 the external world from proactive interactions and perform meaningful tasks.</i> My prior research lies at the intersection of physics modeling, optimization, machine learning, hardware design. I aim to develop representations for robots that facilitate tight integration of physics modeling and machine learning for predictive world modeling from visual-tactile perceptions, especially in the low-data regime. 
 </p>
 <p>
-<strong>Prospective students:</strong> For PhD students, please directly apply to our department's CS program, and indicate that you would like to work with me. For current UIC MS or undergraduate students who would like to do research at my lab, please send me an email with the title [MS/Undergrad][YourName], and include your CV, transcripts, and anything else you want to tell me. I will read every email, and reach out to you if there is a good match. Thanks!
+<strong>Prospective students:</strong> Please see <a href="/prospective/">this page</a> for more information.
 </p>
 </div>
 

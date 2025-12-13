@@ -9,7 +9,7 @@ redirect_from:
 ---
 <div style="text-align: justify;">
 <p>
-I am an assistant professor at the <a href="https://cs.uic.edu/">Computer Science department</a> at the <a href="https://www.uic.edu/">University of Illinois Chicago</a>, and the director of the <a href="https://adaptive-robotics-lab.github.io/">Adaptive Robotics Lab</a>. Previously, I was a postdoctoral research scholar at the Yale <a href="https://www.eng.yale.edu/grablab/">GRAB Lab</a>, advised by Prof. Aaron Dollar. Previously, I obtained a Ph.D. from the <a href="https://cs.illinois.edu/">Computer Science department</a> at the <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>, where I was a member of the <a href="https://motion.cs.illinois.edu/">Intelligent Motion Lab</a> and advised by Prof. Kris Hauser on robotics. You are also welcome to check out <a href="https://motion.cs.illinois.edu/efficientlearning/index.html">my old research page</a> on the lab website.
+I am an assistant professor at the <a href="https://cs.uic.edu/">Computer Science department</a> at the <a href="https://www.uic.edu/">University of Illinois Chicago</a>, and the director of the <a href="https://adaptive-robotics-lab.github.io/">Adaptive Robotics Lab</a>. Previously, I was a postdoctoral research scholar at <a href="https://www.eng.yale.edu/grablab/">Yale</a> and obtained a Ph.D. from the <a href="https://cs.illinois.edu/">Computer Science department</a> at the <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>.
 </p>
 <p>
 <i>My research vision is to develop fundamental technologies that enable robots to understand their contacts with
